@@ -3,5 +3,5 @@
 ### 사나
 #### 죽나
 ##### 사나
-![사진](http://cfile22.uf.tistory.com/image/2541D84457193CBB389319)
-![동영상](<iframe width="560" height="315" src="https://www.youtube.com/embed/LtRPb0PSf2A" frameborder="0" allowfullscreen></iframe>)
+![사진](https://namu.moe/file/%ED%8C%8C%EC%9D%BC%3AIMGL2714.jpg)
+![동영상](<iframe width="560" height="315" src="https://www.youtube.com/embed/a11uyTLUA-g" frameborder="0" allowfullscreen></iframe>)
