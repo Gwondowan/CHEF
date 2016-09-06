@@ -1,9 +1,9 @@
-# 사나
-## 사나
-### 사나
-#### 죽나
-##### 사나
+# 쯔위
+##  쯔위갓
+### 겁나이뻐
+#### 쯔위님여신
+##### 여신
 ![사진](https://lh3.googleusercontent.com/-J6UZrBXVmYs/VnUORkq9ywI/AAAAAAAChbk/PoGN83KEGU4/w827-h1045/7.jpg)
 
-![동영상](<iframe width="560" height="315" src="https://www.youtube.com/embed/a11uyTLUA-g" frameborder="0" allowfullscreen></iframe>)
+[동영상](https://youtu.be/a11uyTLUA-g)
 
